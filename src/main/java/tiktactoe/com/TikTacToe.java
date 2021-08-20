@@ -5,7 +5,7 @@ public class TikTacToe {
 		
 		char arr[] = new char[9];  // create array
 		for (int i=0;i<arr.length;i++) {   // using for loop
-				arr[i] = '-';             // blank space initialize
+				arr[i] = '-';             
 				System.out.println(arr[i]);
 		}
 		
